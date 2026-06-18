@@ -1,3 +1,6 @@
+
+![Uploading 1000049161.jpg…]()
+
 ### Project 3: AI Recommendation Logic
 
 This repository contains the implementation of **Project 3: AI Recommendation Logic** as part of the DecodeLabs internship program. The project focuses on building a Content-Based Filtering recommendation engine that transitions system behavior from passive classification to active prediction.
